@@ -6,6 +6,7 @@ public class GitDay4 {
 		
 		System.out.println("local first commit");
 		System.out.println("someone commit");
+		System.out.println("my next commit from local master");
 	}
 
 }
